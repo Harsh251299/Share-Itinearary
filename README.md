@@ -13,7 +13,7 @@
 ## Workflow:
 
 1. Clone the repository
-   1. `git clone https://github.com/DhairyaPatel2210/share-itinerary.git`
+   1. `git clone https://github.com/Harsh251299/Share-Itinearary.git`
 2. Make sure your docker desktop is running
 3. Open terminal inside the cloned repository share-itinerary
 4. run this command to start micro-services inside the Kubernetes cluster
